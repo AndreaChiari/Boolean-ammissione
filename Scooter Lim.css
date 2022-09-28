@@ -1,0 +1,75 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;}
+
+main {
+  width: 1200px;
+  height: 850px;
+  margin:auto;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 2%;
+  margin-top: 1.5%}
+
+.box {
+  width: 251px;
+  margin:auto;
+  padding-top: 8%;}
+
+img {
+  height: 115px;
+  width:auto;
+  margin:auto;}
+
+.infologo{
+  margin: auto;
+  text-align: center;
+  color:#00dd00;
+  font-family: 'Poppins', sans-serif;}
+
+main > nav {
+  width: 1000px;
+  height: 50px;
+  background-color: #00dd00;
+  margin: auto;}
+
+.buttonbox {
+  width: 320px;
+  height: 50px;
+  margin: auto;
+  padding-top: 15px;}
+
+main > section {
+  width: 1000px;
+  height: 14%;
+  margin: auto;
+  margin-top: 2%;
+  margin-bottom: 2%;}
+
+h2.monopattini {
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  display: inline;}
+
+p.maintesto {
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  margin: auto;}
+
+ .caricarancione {
+  width: 35%;
+  height: 30px;
+  background-color:#f5b453;
+  border-radius: 7px;}
+
+ .caricaverde {
+  width: 65%;
+  height: 30px;
+  background-color:#1ec31e;
+  border-radius: 7px;}
+
+ .caricarossa {
+  width: 16%;
+  height: 30px;
+  background-color:#be4141;
+  border-radius: 7px;}
